@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  /* overflow: hidden; */
+}
+
+header {
+  background-color: #999;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+nav a {
+  display: inline-block;
+  color: #333;
+  background-color: #666;
+}
+
+aside {
+  display: none;
+}
+
+section {
+  background-color: #999;
+  color: #000;
+}
+
+section h2 {
+  text-align: left;
+  color: #000fff;
+  text-transform: uppercase;
+}
+
+/* Developed By seyedMohammdMahdi Kiaei  */
